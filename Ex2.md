@@ -1,19 +1,19 @@
-Ex.No:
-Date:
+#Ex.No:
+##Date:
 
-Aim:
-
-
-Algorithm:
+##Aim:
 
 
-
-Program:
+##Algorithm:
 
 
 
+##Program:
 
-Output:
 
 
-Result:
+
+##Output:
+
+
+##Result:
