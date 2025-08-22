@@ -1,22 +1,22 @@
-#Ex.No:
-##Date:
-##Aim:
+# Ex.No:
+## Date:
+## Aim:
 
 
-##Algorithm:
+## Algorithm:
 
-##Program:
-
-
-
+## Program:
 
 
 
 
-##Output:
 
 
 
-##Result:
+## Output:
+
+
+
+## Result:
 
 
