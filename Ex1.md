@@ -1,6 +1,6 @@
 # Ex.No:1
 # Ex.Name:Write a C++ Program to read two sequence of character  value from the keyboard and display the value on the monitor?
-## Date:01-09-2025
+## Date:07-07-2025
 ## Aim:
 Write a C++ program to convert Celsius into Fahrenheit using inline function  
 
